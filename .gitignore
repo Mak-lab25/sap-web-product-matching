@@ -1,0 +1,19 @@
+# Environnement
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Fichiers lourds (TRÈS IMPORTANT)
+*.npy
+*.faiss
+*.parquet
+chunks_embeddings/
+
+# Excel (optionnel)
+*.xlsx
+
+# OS
+.DS_Store
+Thumbs.db
