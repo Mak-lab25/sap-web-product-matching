@@ -29,7 +29,7 @@ Le système compare chaque produit SAP aux **600k produits du catalogue web**.
 
 ## 🚀 Demo
 
-![App Screenshot](screenshot.png)
+https://huggingface.co/spaces/alkaren38gmailcom/sap_web
 
 ---
 
