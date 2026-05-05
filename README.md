@@ -58,7 +58,7 @@ L'application permet à n'importe quel utilisateur (sans compétences techniques
 1. **Importer** son fichier source (export SAP ou autre ERP)
 2. **Choisir** les colonnes à utiliser pour la comparaison
 3. **Lancer** le matching en un clic
-4. **Visualiser** l'impact sur le CA par univers (avant / après)
+4. **Visualiser** l'impact sur le CA par univerou catégorie produits (avant / après)
 5. **Télécharger** le fichier Excel des correspondances
 
 > 💡 Le référentiel catalogue (560 000 produits, pré-encodé) est chargé automatiquement depuis Hugging Face — aucune configuration nécessaire.
