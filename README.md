@@ -88,7 +88,7 @@ L'onglet "Visualisation CA" montre concrètement l'impact du matching :
 | Composant | Rôle |
 |---|---|
 | `Sentence-BERT (all-mpnet-base-v2)` | Encodage sémantique des libellés produits |
-| `FAISS (IndexFlatIP)` | Recherche vectorielle rapide sur 600K produits |
+| `FAISS (IndexFlatIP)` | Recherche vectorielle rapide sur 566K produits |
 | `Streamlit` | Interface utilisateur interactive |
 | `Hugging Face Hub` | Stockage et chargement du référentiel pré-encodé |
 | `Pandas / NumPy` | Manipulation des données |
