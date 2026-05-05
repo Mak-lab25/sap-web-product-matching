@@ -11,14 +11,14 @@
 
 Dans de nombreuses entreprises, les produits vendus en ligne sont gérés dans **deux systèmes distincts** :
 - un **ERP** (ex : SAP) qui centralise toutes les références produits
-- un **catalogue web** avec sa propre hiérarchie de rayons et d'univers
+- un **catalogue web** avec sa propre hiérarchie de catégorie (univers) et de rayons
 
 Ces deux systèmes ne parlent pas le même langage. Résultat : **15% des produits SAP n'apparaissaient pas dans le catalogue web**, rendant le reporting incomplet et les décisions commerciales biaisées.
 
 | Avant ce projet | Après ce projet |
 |---|---|
 | 15% du CA invisible dans les rapports | 100% du CA attribué à un univers web |
-| Classification manuelle : plusieurs semaines | Matching automatique : quelques secondes |
+| Classification manuelle : plusieurs semaines | Matching automatique : quelques minutes |
 | Décisions basées sur un reporting partiel | Reporting fiable et complet |
 
 ---
